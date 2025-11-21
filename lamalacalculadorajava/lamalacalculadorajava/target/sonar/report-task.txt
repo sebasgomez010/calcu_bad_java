@@ -1,0 +1,6 @@
+projectKey=proyectoJava
+serverUrl=http://localhost:9000
+serverVersion=25.10.0.114319
+dashboardUrl=http://localhost:9000/dashboard?id=proyectoJava
+ceTaskId=6763d708-a720-44f4-97b2-86c44a0be922
+ceTaskUrl=http://localhost:9000/api/ce/task?id=6763d708-a720-44f4-97b2-86c44a0be922
